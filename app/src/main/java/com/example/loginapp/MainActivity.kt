@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
             val password = passwordInput.text.toString()
 
             if (name == "BHANU" && password == "12345") {
-                resultText.text = "✅ Welcome hhg to sir, $name!"
+                resultText.text = "✅ Welcome sdd hhg to sir, $name!"
             } else {
                 resultText.text = "❌ Error! Try again."
             }
